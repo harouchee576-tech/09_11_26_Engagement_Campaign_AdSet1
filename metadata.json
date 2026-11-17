@@ -1,0 +1,6 @@
+{
+  "name": "HAROU GENERATOR",
+  "description": "Moteur centralisé de génération multimédia et API REST sécurisée pour HAROU AI : scénarios, personnages, images, voix, séquences vidéo, assemblage automatique et export MP4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
